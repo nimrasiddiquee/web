@@ -1,0 +1,22 @@
+h1{display: inline;font-family: Arial, Helvetica, sans-serif;margin-top:1px;}
+h3{display: inline;margin-left:50px;}
+h4{display: inline;margin-left:150px;}
+.big{background-image:  url("https://img.freepik.com/premium-photo/beautiful-asian-woman-carrying-colorful-bags-shopping-online-with-mobile-phone_8087-3877.jpg");height:400px;}
+    .b{color:white;text-align: center;display:inline;margin-top:20px;}
+    p{display: inline;text-align:center;color:white;}
+    .t{border: 1px solid white; background-color:transparent;color:white;}
+    .s{ border:1px solid white;background-color: white;}
+    img{margin-top:5px;}
+    .m{height:70px;margin-left:20px;}
+    .r{margin-left:40px; margin-top: 24px;}
+    .main{display: inline;}
+    .z{display:flex;}
+    
+    .in{background-image: url("https://www.vegas.pk/beta-admin/public/storage/images/product/1690267645--7a44479c-2ab6-11ee-8952-0242ac110007.jpg");height:400px;width:300px;}
+    .one{text-align:center;color:white; margin-top:100px;}
+    button{ border:5px solid white;background-color:black  color:white;margin-top:220px;}
+    .nn{background-image: url("https://i.pinimg.com/736x/22/af/cf/22afcf1ae76745de68d3ae7b09b2447a.jpg");height:150;width:150px; text-align:center;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+    .nn{border:solid;height:400px;width:400px; border:hidden;margin:5px;}
+    .go{display:flex;}
+    .mm{background-image: url("https://i.pinimg.com/736x/8f/45/8c/8f458c00c55ce894832da6528b29ee94.jpg"); height:100px;}
+    .mm{border:solid;height:400px;width:400px;border:hidden;margin:5px;}
